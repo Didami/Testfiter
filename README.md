@@ -4,6 +4,9 @@
 ## License:
 Project is published under the CC BY-NC-ND 4.0 license. Feel free to read, clone and modify repo content as long as it is for personal work purposes and not commercial or related :)
 
+## NOTE:
+Please be aware that ALL code not intended for testing purposes is legally patented and registered. It is crucial NOT to use this code, as doing so may lead to serious legal repercussions. Your cooperation in this matter is greatly appreciated.
+
 #
 <p align="center">
 Created with ♥️ by Didami
