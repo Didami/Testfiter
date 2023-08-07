@@ -1,0 +1,363 @@
+"eng" = "esp";
+
+// MARK: - Alerts
+"Ready?" = "¿Listo?";
+"Re-enable" = "Volver a habilitar";
+"Cancel" = "Cancelar";
+"Go" = "Vamos";
+"Disable" = "Deshabilitar";
+"Are you sure?" = "¿Estás seguro?";
+"Yes, I'm sure" = "Sí, estoy seguro";
+"Edit" = "Editar";
+"Save" = "Guardar";
+"Oops!" = "¡Ups!";
+"Got it" = "Entendido";
+"Loading ..." = "Cargando ...";
+"Beautiful!" = "¡Hermoso!";
+"Remove" = "Eliminar";
+"This action can not be undone." = "Esta es una acción permanente.";
+"Wear" = "Vestir";
+"Add" = "Agregar";
+"Next" = "Siguiente";
+"Skip" = "Saltar";
+"Not now" = "Ahora no";
+"Edit info" = "Editar información";
+"Tip" = "Consejo";
+"Share" = "Compartir";
+"An unexpected error occurred." = "Ocurrió un error inesperado.";
+"Please fill in all the fields." = "Porfavor llena todos los campos.";
+"Open Settings" = "Abrir Configuración";
+"Access denied" = "Acceso denegado";
+"Library access was denied. Please allow library access to use this feature." = "El acceso a la galería fue denegado. Permite el acceso a la galería para usar esta función.";
+"Disclaimer" = "Descargo de responsabilidad";
+"The AIs used to detect the garments have a margin of error. We ask you to retry with a more appropriate image if results are not as expected." = "Las IAs utilizadas para la detección de las prendas tienen un margen de error. Pedimos que si los resultados no son los esperados, se reintente con una imagen más adecuada.";
+"Yes" = "Sí";
+
+// MARK: - Parent
+"Garments" = "Prendas";
+"Outfits" = "Outfits";
+"OOTD" = "ODD";
+
+// MARK: - Home
+"Search" = "Buscar";
+"Oh oh :(" = "Oh oh :(";
+"Looks like you do not have" = "Parece ser que no tienes";
+"in your closet." = "en tu closet";
+"Create outfit" = "Crear outfit";
+"Create outfit with" = "Crear outfit con";
+"Washing?" = "¿Lavando?";
+"Washing" = "Lavando";
+"in case you can't use it temporarily." = "en caso de que no puedas usarlo temporalmente.";
+"Are you sure you want to remove" = "Estás seguro que quieres eliminar";
+"from closet. By doing this, every outfit containing it will be removed as well. This is a permanent action." = "del closet. Al hacer esto, todos los outfits que lo contengan también serán eliminados. Esta es una acción permanente.";
+"from closet. This action can not be undone." = "del closet. Esta es una acción permanente.";
+"Your garments" = "Tus prendas";
+"Your" = "Tus";
+"OOTD & Outfits" = "ODD y Outfits";
+"Outfit suggestions" = "Sugerencias de Outfits";
+"Still washing?" = "¿Aún lavando?";
+"Suggestion:" = "Sugerencia:";
+"Open in editor" = "Abrir en editor";
+"Save Outfit" = "Guardar Outfit";
+"Suggested by Outfiter with ♥️" = "Sugerido por Outfiter con ♥️";
+"Powered by" = "Motorizado por";
+"Location access was denied. Please allow location access to get weather." = "El acceso a la localización fue denegado. Permite el acceso a la localización para obtener el clima.";
+"Couldn't generate quick suggestions, please make sure you've added enough garments and location services are enabled." = "No se pudieron generar sugerencias rápidas, asegúrate de haber agregado suficientes prendas y que los servicios de ubicación estén habilitados.";
+"Multiple selection" = "Selección múltiple";
+"selected" = "seleccionados";
+"garments" = "prendas";
+"from closet" = "del closet";
+"Yes" = "Sí";
+
+// MARK: - Menu
+"Create new outfit" = "Crear nuevo outfit";
+"Load outfit" = "Cargar outfit";
+"Add new garment" = "Agregar nueva prenda";
+"Color combinations" = "Combinaciones de color";
+"Weather" = "Clima";
+"Calendar" = "Calendario";
+"Predominant colors" = "Colores predominantes";
+
+// MARK: - Outfit Builder
+"I like it" = "Me gusta";
+"Generate" = "Generar";
+"Re-generate" = "Re-generar";
+"Render in" = "Renderizar en";
+"Accuracy" = "Precisión";
+"Dress code" = "Código de vestimenta";
+"Replace" = "Reemplazar";
+"Name your outfit ..." = "Nombra tu outfit ...";
+"Edit your outfit" = "Edita tu outfit";
+"was added to your closet successfully." = "fue agregado a tu closet exitosamente.";
+"Select export format." = "Selecciona formato de exportación.";
+"Export image" = "Exportar imagen";
+"(Transparent background)" = "(Fondo transparente)";
+"from your closet?" = "de tu closet?";
+"Add manually" = "Agregar manualmente";
+"Tap to add new garments and create an outfit." = "Toca para añadir nuevas prendas y generar un outfit.";
+"It is not possible to add more garments, remove or replace those already added." = "No se pueden añadir más prendas, quita o sustituye las ya agregadas.";
+"Edit image" = "Editar imagen";
+"Replace or remove image." = "Reemplazar o quitar imagen.";
+"Add more garments or change options." = "Agrega más prendas o cambia las opciones.";
+"Wear today" = "Vestir hoy";
+"Wear other day" = "Vestir otro día";
+"Create Outfit" = "Crear Outfit";
+"Add photo" = "Agregar foto";
+"Select garments to wear" = "Selecciona las prendas a vestir";
+
+// MARK: - Adding
+"Name" = "Nombre";
+"Type" = "Tipo";
+"Weather" = "Clima";
+"Dress Code" = "Código de vestimenta";
+"Colors" = "Colores";
+"Top/Bottom/Etc ..." = "Top/Bottom/Etc ...";
+"Casual/Formal/Etc ..." = "Casual/Formal/Etc ...";
+"Lightweight/Warm/Etc ..." = "Ligero/Abrigador/Etc ...";
+"Design:" = "Diseño:";
+"Colors:" = "Colores:";
+"We are missing important info. Please fill in all the fields." = "Nos falta información importante. Llena todos los campos.";
+"Try auto mode" = "Prueba el modo automático";
+"We highly recommend using auto mode in order to improve your experience." = "Recomendamos demasiado usar el modo automático para mejorar tu experiencia.";
+"It looks great!" = "¡Se ve genial!";
+"Your garment was added to your closet successfully." = "Tu prenda fue agregada al closet exitosamente.";
+"Color selection." = "Selección de color";
+"Choose an option for selecting a color." = "Elige una opción para seleccionar un color.";
+"Color picker" = "Selector de color";
+"Remove" = "Quitar";
+"Camera" = "Cámara";
+"Gallery" = "Galería";
+"Capture the color to detect." = "Captura el color a detectar.";
+"We recommend using flashlight for a better result." = "Recomendamos usar flash para un mejor resultado.";
+"Pattern selection." = "Selección de patrón";
+"Choose a pattern." = "Elige un patrón";
+"If using stripes patterns, brighter color should go before darker color." = "Si usas patrones de rayas, el color más brillante debe ir antes del color más oscuro.";
+"Auto Mode" = "Modo Automático";
+"Take or select a photo." = "Toma o selecciona una foto.";
+"Capture photo" = "Captura una foto";
+"Capture a photo where your garment is visible and the background generates contrast." = "Captura una foto donde se vea tu prenda y el fondo genere contraste.";
+"Select photo" = "Selecciona una foto";
+"Select a photo where your garment is visible and the background generates contrast." = "Selecciona una foto donde se vea tu prenda y el fondo genere contraste.";
+"You have not authorized access to any image yet." = "No has autorizado el acceso a ninguna imagen aún.";
+"Combinable with overlays" = "Combinable con otras capas";
+"Match this garment with" = "¿Combinar esta prenda con";
+"Remove background" = "Quitar fondo";
+"Add more ..." = "Agregar más ...";
+"Select photos ..." = "Seleccionar fotos ...";
+"Your garments were added successfully!" = "Tus prendas fueron agregadas correctamente!";
+"Add images" = "Agregar imágenes";
+
+// MARK: - Garment
+"Garment" = "Prenda";
+"Top" = "Top";
+"Bottom" = "Bottom";
+"Hoodie & Sweatshirt" = "Hoodie y Sudadera";
+"Coat & Jacket" = "Abrigo y Chamarra";
+"Shoes" = "Zapatos";
+"Jacket" = "Chamarra";
+
+"Grid" = "Cuadrícula";
+"Free" = "Libre";
+"Caroussel" = "Carrusel";
+"Photo" = "Foto";
+
+"Broader" = "Amplio";
+"Balanced" = "Balanceado";
+"Accurate" = "Preciso";
+
+"Casual" = "Casual";
+"Formal" = "Formal";
+"Informal" = "Informal";
+"Mixed" = "Mixto";
+
+"Midpoint" = "Punto medio";
+"Lightweight" = "Ligero";
+"Warm" = "Abrigador";
+
+"Solid" = "Sólido";
+"Denim" = "Mezclilla";
+"horizontal-stripes" = "rayas-horizontales";
+"vertical-stripes" = "rayas-verticales";
+
+"Wear count" = "Cuenta";
+"time" = "vez";
+"times" = "veces";
+
+"Wash" = "Lavar";
+
+// MARK: - Colors
+"red" = "rojo";
+"orange" = "naranja";
+"yellow" = "amarillo";
+"yellow green" = "amarillo verdoso";
+"green" = "verde";
+"green cyan" = "verde cian";
+"cyan" = "cian";
+"cyan blue" = "azul cian";
+"blue" = "azul";
+"purple" = "morado";
+"magenta" = "magenta";
+"magenta red" = "magenta rojo";
+"neutral" = "neutral";
+"brown" = "café";
+
+"Colors table" = "Tabla de colores";
+"Should I buy it?" = "¿Debería comprarlo?";
+
+// MARK: - Weather
+"About Weather" = "Acerca del Clima";
+"Outfiter's uses Open Weather Map API to fetch Weather data, the values that appear below are an average of the current day considering the values since user opens app. Localization and Weather data are only fetched once per day." = "Outfiter utiliza Open Weather Map API para obtener datos meteorológicos, los valores que aparecen a continuación son un promedio del día actual teniendo en cuenta los valores desde que el usuario abre la aplicación. Los datos de localización y meteorológicos solo se obtienen una vez al día.";
+
+// MARK: - Calendar
+"Sun" = "Dom";
+"Mon" = "Lun";
+"Tue" = "Mar";
+"Wed" = "Mié";
+"Thu" = "Jue";
+"Fri" = "Vie";
+"Sat" = "Sáb";
+"Your outfit for:" = "Tu outfit para el:";
+"You are wearing" = "Vestirás";
+"this Outfit" = "este Outfit";
+"today" = "hoy";
+"on" = "el";
+"Remove Outfit" = "Quitar Outfit";
+"Remove Outfit?" = "¿Quitar Outfit?";
+"Outfit will be replaced" = "El Outfit será reemplazado";
+"You already have an Outfit for this day, if you proceed it will be replaced." = "Ya tienes un Outfit para este día, si procedes será reemplazado.";
+"Nice Outfit yesterday!" = "¡Gran Outfit el de ayer!";
+"What are you washing?" = "¿Qué vas a lavar?";
+
+// MARK: - Extensions
+"Add more garments to continue." = "Agrega más prendas para continuar.";
+"Make sure you've added all of your garments." = "Asegúrate de haber agregado todas tus prendas.";
+"Your closet is emptier than the feelings of the app developer." = "Tu closet está más vacío que los sentimientos del desarrollador.";
+"Before using the app you should add your clothes, don't you think?" = "Antes de usar la app deberías agregar tu ropa, ¿no crees?";
+"Not even my closet is that empty -Developer" = "Ni mi armario está tan vacío -Desarrollador";
+"You need clothes to create an outfit, or do you think you can breathe without a nose?" = "¿Necesitas ropa para crear un outfit, o crees que puedes respirar sin nariz?";
+"Empty :(" = "Vacío :(";
+"No garments were found." = "No se encontraron prendas.";
+"No outfits were found." = "No se encontraron outfits.";
+"Add new garments" = "Agrega prendas";
+"Add new outfits" = "Agrega nuevos outfits";
+
+// MARK: - View components
+"Done" = "Listo";
+"Recommended" = "Recomendado";
+
+// MARK: - Image Cropper
+"Preview auto mode" = "Vista previa";
+"Re-take" = "Volver a tomar";
+
+// MARK: - Settings
+"User settings" = "Ajustes de usuario";
+"Outfiter settings" = "Ajustes de Outfiter";
+
+"Height (cm)" = "Altura (cm)";
+"Weight (kg)" = "Peso (kg)";
+"Skin tone" = "Tono de piel";
+
+"average" = "promedio";
+"below average" = "abajo del promedio";
+"above average" = "arriba del promedio";
+
+"short" = "bajo";
+"tall" = "alto";
+
+"skinny" = "delgado";
+"thick" = "grueso";
+
+"light" = "claro";
+"fair" = "güero";
+"tan" = "bronceado";
+"swarthy" = "moreno";
+"dark" = "oscuro";
+
+"Splash animation" = "Animación de inicio";
+"Animated background" = "Fondo animado";
+"Clear mode" = "Modo claro";
+"Highest image quality" = "Calidad de imagen alta";
+"Restore purchases" = "Restaurar compras";
+"Buy me a coffee (Donate)" = "Cómprame un café (Donar)";
+"Help" = "Ayuda";
+"Attributions" = "Atribuciones";
+"About" = "Acerca de";
+"Website" = "Sitio web";
+"Privacy policy" = "Política de privacidad";
+"Terms of use" = "Términos de uso";
+"Created with ♥️ by" = "Creado con ♥️ por";
+"Support Email" = "Correo de soporte";
+
+"Restart Outfiter?" = "¿Reiniciar Outfier?";
+"In order to apply this setting, Outfiter needs to restart." = "Para poder aplicar este ajuste, Outfiter debe reiniciarse.";
+
+"Change image quality?" = "¿Cambiar calidad de imagen?";
+"By doing so, the images will take up more storage space. (This setting will take effect as soon as you activate or deactivate it.)" = "Al hacerlo, las imágenes ocuparán más espacio de almacenamiento. (Esta configuración hará efecto desde que la actives o desactives.)";
+
+// MARK: - Onboarding
+"Create Outfits" = "Crea Outfits";
+"With your garments" = "Con tus prendas";
+"Save your Outfits" = "Guarda tus Outfits";
+"To use them later" = "Para usarlos después";
+"Organize your garments" = "Organiza tus prendas";
+"For a better management" = "Para un mejor gestión";
+"Upgrade your style, ignite your confidence." = "Mejora tu estilo, enciende tu confianza.";
+"To access the best Outfiter features you'll need to upgrade to Outfiter Gold. I highly recommend you to do it before using the app, you'll love it instantly :)\n- The Developer" = "Para acceder a las mejores funciones de Outfiter tendrás que obtener Outfiter Gold. Te recomiendo altamente que lo hagas antes de usar la app, te enamorarás al instante :)\n- El Desarrollador";
+"See details" = "Ver detalles";
+"I'll upgrade later" = "Lo obtendré después";
+
+"Welcome to Outfiter!" = "¡Bienvenido a Outfiter!";
+"This is a beginners tutorial, it's important to know how to use app before using it." = "Este es un tutorial para principiantes, es importante aprender cómo usar la app.";
+"This is the Scope Bar" = "Esta es la barra de filtro";
+"Tap on the different types of garments to filter your garments and suggested outfits." = "Toca los diferentes tipos de prendas para filtrar tus prendas y los outfits sugeridos.";
+"Your garments section" = "Sección de tus prendas";
+"Your garments will be displayed here when you add them." = "Tus prendas se mostrarán aquí cuando las agregues.";
+"Suggestions section" = "Sección de sugerencias";
+"Weather data will be fetched and based on that Outfiter will generate quick outfits suggestions." = "Los datos del clima se descargarán y basado en eso Outfiter generará sugerencias de outfits.";
+"OOTD & Outfits" = "ODD y Outfits";
+"Your OOTD and all Outfits you save will appear here." = "Tu ODD y todos los Outfits que guardes aparecerán aquí.";
+"This is the Tab Bar" = "Esta es la barra de secciones";
+"Use Tab Bar to change between sections." = "Usa la barra de secciones para cambiar de sección.";
+"Let's go to the cascade menu" = "Ahora vamos al menú de cascada";
+"Tap next to go to the cascade menu." = "Toca siguiente para ir al menú de cascada.";
+"The most important buttons" = "Los botones más importantes";
+"Tap these to create a new outfit and to add your garments." = "Presiona estos para crear un nuevo outfit o para agregar tus prendas.";
+"You can access calendar by scrolling down, your OOTDs and history will appear here." = "Puedes acceder al calendario deslizando para abajo, tus ODD e historial aparecerá aquí.";
+"You can access weather by scrolling down, you can consult current weather data here." = "Puedes acceder al clima deslizando para abajo, puedes consultar los datos del clima aquí.";
+"Outfit Builder" = "Generador de Outfits";
+"Create and generate outfits here, make sure to have garments added before doing it." = "Crea y genera outfits aquí, asegúrate de tener prendas agregadas antes de hacerlo.";
+"5 cells" = "5 celdas";
+"Each cell is for a different garment type, tap on them to add manually or to edit selection." = "Cada celda es para un tipo de prenda diferente, presiona para agregar manualmente o editar la selección.";
+"Generate & options" = "Generar y opciones";
+"Tap Generate to create an outfit automatically, tap on options button to change render mode, accuracy and dresscode." = "Presiona Generar para crear un outfit automáticamente, presiona opciones para cambiar el modo de renderización, precisión y código de vestimenta.";
+"Select a photo" = "Selecciona una foto";
+"Tap here to take a photo, select it from your library or search for it on the internet." = "Toca aquí para tomar una foto, seleccionarla de tu librería o buscarla en internet.";
+"Type the name" = "Escribe el nombre";
+"Type the name of your garment, in case you select photo from internet, this field will fill in automatically." = "Escribe el nombre de tu prenda, en caso de seleccionarla desde internet, este campo se rellenará automáticamente.";
+"Garment info" = "Información de la prenda";
+"Fill in these fields with your garment data, outfits will be generated based on it." = "Rellena estos campos con los datos de tu prenda, los outfits serán generados basándose en ella.";
+
+// MARK: - Premium Purchase
+"Go stylish, with" = "Ve con estilo, con";
+"Unlimited Adding" = "Adición ilimitada";
+"Background Removal" = "Eliminación de fondo";
+"User Data" = "Datos de usuario";
+"Unlock your wardrobe potential with Unlimited Adding." = "Desbloquea el potencial de tu guardarropa.";
+"Highlight your fashion, let your Outfits shine. Remove backgrounds in a matter of seconds." = "Resalta tu moda, deja que tus Outfits brillen. Elimina fondos en cuestión de segundos.";
+"Organize your style, one Outfit at a time." = "Organiza tu estilo, un Outfit a la vez.";
+"Uncover your style insights. Master your fashion & Buy smart." = "Descubre tu estilo. Domina tu moda y compra inteligente.";
+"Dress smart, rain or shine." = "Vístete inteligente, llueva o brille.";
+"Your style, your data, your personalized fashion experience." = "Tu estilo, tus datos, tu experiencia de moda personalizada.";
+"Get Outfiter Gold" = "Obtener Outfiter Gold";
+"Welcome aboard!" = "¡Bienvenido a bordo!";
+"Welcome to Outfiter Gold, all features have been unlocked." = "Bienvenido a Outfiter Gold, todas las características han sido desbloqueadas.";
+"An unexpected error occurred. Try again later." = "Ocurrió un error inesperado. Prueba de nuevo más tarde.";
+"Purchases restored" = "Compras restauradas";
+"Your purchases were restored successfully." = "Tus compras fueron restauradas con éxito.";
+"Remove Backgrounds?" = "¿Quitar fondos?";
+"Remove backgrounds of your added garments? (This action cannot be undone and you may need to re-take some images)" = "¿Quitar fondos de tus prendas ya agregadas? (Esta acción no puede deshacerse y puede que tengas que tomar algunas imágenes de nuevo)";
+"Yes, remove" = "Sí, quitar";
+"No, I'll do it manually" = "No, lo haré manualmente";
+"Success! Enjoy!" = "¡Éxito! ¡Disfruta!";
+"Payment was cancelled, don't forget Outfiter Gold is waiting for you :)" = "La transacción fue cancelada, no olvides que Outfiter Gold te está esperando :)";
+

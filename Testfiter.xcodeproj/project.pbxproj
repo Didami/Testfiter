@@ -13,6 +13,18 @@
 		72BFB42E2A80870A00C4CE0D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72BFB42C2A80870A00C4CE0D /* LaunchScreen.storyboard */; };
 		72BFB4372A8087D700C4CE0D /* HomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72BFB4362A8087D700C4CE0D /* HomeController.swift */; };
 		72BFB43A2A8087FC00C4CE0D /* Extensions+Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72BFB4392A8087FC00C4CE0D /* Extensions+Constants.swift */; };
+		72C532A22A80944C00B8DEBA /* Garment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A02A80944C00B8DEBA /* Garment.swift */; };
+		72C532A32A80944C00B8DEBA /* Outfit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A12A80944C00B8DEBA /* Outfit.swift */; };
+		72C532A52A80948900B8DEBA /* ColorMatchService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A42A80948900B8DEBA /* ColorMatchService.swift */; };
+		72C532A92A8094B800B8DEBA /* UserDefaultsExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A62A8094B800B8DEBA /* UserDefaultsExtension.swift */; };
+		72C532AA2A8094B800B8DEBA /* CalendarService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A72A8094B800B8DEBA /* CalendarService.swift */; };
+		72C532AB2A8094B800B8DEBA /* UserDefaultsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532A82A8094B800B8DEBA /* UserDefaultsManager.swift */; };
+		72C532B42A8095B900B8DEBA /* LaLabsu2netp.mlmodelc in Resources */ = {isa = PBXBuildFile; fileRef = 72C532AE2A8095B800B8DEBA /* LaLabsu2netp.mlmodelc */; };
+		72C532B52A8095B900B8DEBA /* LaLabsu2netp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532AF2A8095B800B8DEBA /* LaLabsu2netp.swift */; };
+		72C532B62A8095B900B8DEBA /* BackgroundRemoval.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532B02A8095B900B8DEBA /* BackgroundRemoval.swift */; };
+		72C532B72A8095B900B8DEBA /* LICENSE-BackgroundRemoval in Resources */ = {isa = PBXBuildFile; fileRef = 72C532B12A8095B900B8DEBA /* LICENSE-BackgroundRemoval */; };
+		72C532B82A8095B900B8DEBA /* Factory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72C532B32A8095B900B8DEBA /* Factory.swift */; };
+		72C532BB2A80962700B8DEBA /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 72C532BD2A80962700B8DEBA /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +36,19 @@
 		72BFB42F2A80870A00C4CE0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72BFB4362A8087D700C4CE0D /* HomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeController.swift; sourceTree = "<group>"; };
 		72BFB4392A8087FC00C4CE0D /* Extensions+Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extensions+Constants.swift"; sourceTree = "<group>"; };
+		72C532A02A80944C00B8DEBA /* Garment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Garment.swift; sourceTree = "<group>"; };
+		72C532A12A80944C00B8DEBA /* Outfit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Outfit.swift; sourceTree = "<group>"; };
+		72C532A42A80948900B8DEBA /* ColorMatchService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorMatchService.swift; sourceTree = "<group>"; };
+		72C532A62A8094B800B8DEBA /* UserDefaultsExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserDefaultsExtension.swift; sourceTree = "<group>"; };
+		72C532A72A8094B800B8DEBA /* CalendarService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarService.swift; sourceTree = "<group>"; };
+		72C532A82A8094B800B8DEBA /* UserDefaultsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserDefaultsManager.swift; sourceTree = "<group>"; };
+		72C532AE2A8095B800B8DEBA /* LaLabsu2netp.mlmodelc */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = LaLabsu2netp.mlmodelc; sourceTree = "<group>"; };
+		72C532AF2A8095B800B8DEBA /* LaLabsu2netp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaLabsu2netp.swift; sourceTree = "<group>"; };
+		72C532B02A8095B900B8DEBA /* BackgroundRemoval.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundRemoval.swift; sourceTree = "<group>"; };
+		72C532B12A8095B900B8DEBA /* LICENSE-BackgroundRemoval */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "LICENSE-BackgroundRemoval"; sourceTree = "<group>"; };
+		72C532B32A8095B900B8DEBA /* Factory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Factory.swift; sourceTree = "<group>"; };
+		72C532BC2A80962700B8DEBA /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		72C532BE2A80963D00B8DEBA /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +83,10 @@
 			children = (
 				72BFB4212A80870800C4CE0D /* AppDelegate.swift */,
 				72BFB4232A80870800C4CE0D /* SceneDelegate.swift */,
+				72C5329F2A80940E00B8DEBA /* Models */,
 				72BFB4382A8087F100C4CE0D /* Helpers */,
 				72BFB4352A8087C500C4CE0D /* Controllers */,
+				72C532BD2A80962700B8DEBA /* Localizable.strings */,
 				72BFB42A2A80870A00C4CE0D /* Assets.xcassets */,
 				72BFB42C2A80870A00C4CE0D /* LaunchScreen.storyboard */,
 				72BFB42F2A80870A00C4CE0D /* Info.plist */,
@@ -78,9 +105,51 @@
 		72BFB4382A8087F100C4CE0D /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				72C532AC2A8095A900B8DEBA /* BackgroundRemoval */,
 				72BFB4392A8087FC00C4CE0D /* Extensions+Constants.swift */,
+				72C532A42A80948900B8DEBA /* ColorMatchService.swift */,
+				72C532A72A8094B800B8DEBA /* CalendarService.swift */,
+				72C532A62A8094B800B8DEBA /* UserDefaultsExtension.swift */,
+				72C532A82A8094B800B8DEBA /* UserDefaultsManager.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		72C5329F2A80940E00B8DEBA /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				72C532A02A80944C00B8DEBA /* Garment.swift */,
+				72C532A12A80944C00B8DEBA /* Outfit.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		72C532AC2A8095A900B8DEBA /* BackgroundRemoval */ = {
+			isa = PBXGroup;
+			children = (
+				72C532B02A8095B900B8DEBA /* BackgroundRemoval.swift */,
+				72C532B12A8095B900B8DEBA /* LICENSE-BackgroundRemoval */,
+				72C532AD2A8095B800B8DEBA /* model */,
+				72C532B22A8095B900B8DEBA /* utils */,
+			);
+			path = BackgroundRemoval;
+			sourceTree = "<group>";
+		};
+		72C532AD2A8095B800B8DEBA /* model */ = {
+			isa = PBXGroup;
+			children = (
+				72C532AE2A8095B800B8DEBA /* LaLabsu2netp.mlmodelc */,
+				72C532AF2A8095B800B8DEBA /* LaLabsu2netp.swift */,
+			);
+			path = model;
+			sourceTree = "<group>";
+		};
+		72C532B22A8095B900B8DEBA /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				72C532B32A8095B900B8DEBA /* Factory.swift */,
+			);
+			path = utils;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +194,7 @@
 			knownRegions = (
 				en,
 				Base,
+				es,
 			);
 			mainGroup = 72BFB4152A80870800C4CE0D;
 			productRefGroup = 72BFB41F2A80870800C4CE0D /* Products */;
@@ -141,8 +211,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72C532BB2A80962700B8DEBA /* Localizable.strings in Resources */,
+				72C532B42A8095B900B8DEBA /* LaLabsu2netp.mlmodelc in Resources */,
 				72BFB42E2A80870A00C4CE0D /* LaunchScreen.storyboard in Resources */,
 				72BFB42B2A80870A00C4CE0D /* Assets.xcassets in Resources */,
+				72C532B72A8095B900B8DEBA /* LICENSE-BackgroundRemoval in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -153,8 +226,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				72C532A52A80948900B8DEBA /* ColorMatchService.swift in Sources */,
 				72BFB4222A80870800C4CE0D /* AppDelegate.swift in Sources */,
+				72C532A92A8094B800B8DEBA /* UserDefaultsExtension.swift in Sources */,
 				72BFB43A2A8087FC00C4CE0D /* Extensions+Constants.swift in Sources */,
+				72C532AA2A8094B800B8DEBA /* CalendarService.swift in Sources */,
+				72C532B82A8095B900B8DEBA /* Factory.swift in Sources */,
+				72C532A32A80944C00B8DEBA /* Outfit.swift in Sources */,
+				72C532AB2A8094B800B8DEBA /* UserDefaultsManager.swift in Sources */,
+				72C532A22A80944C00B8DEBA /* Garment.swift in Sources */,
+				72C532B62A8095B900B8DEBA /* BackgroundRemoval.swift in Sources */,
+				72C532B52A8095B900B8DEBA /* LaLabsu2netp.swift in Sources */,
 				72BFB4242A80870800C4CE0D /* SceneDelegate.swift in Sources */,
 				72BFB4372A8087D700C4CE0D /* HomeController.swift in Sources */,
 			);
@@ -171,6 +253,15 @@
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
+		72C532BD2A80962700B8DEBA /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				72C532BC2A80962700B8DEBA /* en */,
+				72C532BE2A80963D00B8DEBA /* es */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
@@ -178,6 +269,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
@@ -238,6 +330,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
