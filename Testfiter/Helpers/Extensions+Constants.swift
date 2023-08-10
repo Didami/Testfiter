@@ -47,7 +47,7 @@ extension UIFont {
         
         let systemFont = UIFont.systemFont(ofSize: size, weight: weight)
         
-        if let font = UIFont(name: "", size: size)?.withWeight(weight) {
+        if let font = UIFont(name: "Dosis", size: size)?.withWeight(weight) {
             
             return font
         }
@@ -86,6 +86,14 @@ extension UIView {
         let backgroundCGColor = backgroundColor?.cgColor
         backgroundColor = nil
         layer.backgroundColor =  backgroundCGColor
+    }
+    
+    public func addTopShadow(shadowColor: UIColor, shadowOpacity: Float, shadowRadius: CGFloat, offset: CGSize){
+        self.layer.shadowColor = shadowColor.cgColor
+        self.layer.shadowOffset = offset
+        self.layer.shadowOpacity = shadowOpacity
+        self.layer.shadowRadius = shadowRadius
+        self.clipsToBounds = false
     }
     
     public func popIn(duration: CGFloat = 0.1, delay: CGFloat = 0 , impact: Bool = true) {
@@ -287,6 +295,27 @@ extension UIImage {
     
     public func resizedToSmallIcon() -> UIImage? {
         return self.resizedImage(size: CGSize(width: 6, height: 6))?.withRenderingMode(.alwaysTemplate)
+    }
+    
+    public func maskWith(maskImage: UIImage) -> UIImage {
+        
+        let maskRef = maskImage.cgImage
+
+        let mask = CGImage(
+            maskWidth: maskRef!.width,
+            height: maskRef!.height,
+            bitsPerComponent: maskRef!.bitsPerComponent,
+            bitsPerPixel: maskRef!.bitsPerPixel,
+            bytesPerRow: maskRef!.bytesPerRow,
+            provider: maskRef!.dataProvider!,
+            decode: nil,
+            shouldInterpolate: false
+        )
+
+        let masked = self.cgImage!.masking(mask!)
+        let maskedImage = UIImage(cgImage: masked!)
+
+        return maskedImage
     }
 }
 
